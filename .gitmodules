@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cmpsR"]
+	path = cmpsR
+	url = https://github.com/willju-wangqian/cmpsr
+	shallow = true
+	registered = true
